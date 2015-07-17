@@ -1,0 +1,21 @@
+{
+  "name": "Symfony2",
+  "version": "0.0.1",
+  "authors": [
+    "c0mrad <grigala@live.com>",
+    "Grigala <grigalaa@gmail.com>"
+  ],
+  "description": "Just having fun.",
+  "keywords": [
+    "symfony"
+  ],
+  "license": "MIT",
+  "homepage": "http://twitter.com/Grigalaa",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
