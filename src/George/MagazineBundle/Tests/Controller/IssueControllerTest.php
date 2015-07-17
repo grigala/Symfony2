@@ -4,11 +4,9 @@ namespace George\MagazineBundle\Tests\Controller;
 
 use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
-class IssueControllerTest extends WebTestCase
-{
+class IssueControllerTest extends WebTestCase{
     /*
-    public function testCompleteScenario()
-    {
+    public function testCompleteScenario(){
         // Create a new client to browse the application
         $client = static::createClient();
 
